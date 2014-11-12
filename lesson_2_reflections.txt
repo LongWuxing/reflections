@@ -1,0 +1,10 @@
+
+
+(Q) What happens when you initialize a repository? Why do you need to do it?
+
+a file tracker .git gets added and need to do it because it starts process - like opening text file to start typing.
+
+
+(Q) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+is a blank white board to see before committing to it -- one can change it with no trouble.
